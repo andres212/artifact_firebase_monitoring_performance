@@ -4,6 +4,8 @@ Aplicación desarrollada en **Kotlin**, para integrar **Firebase Performance Mon
 
 ---
 
+![Screen Dashboard](https://imgur.com/a/qDlRDXw)
+
 ## Características
 
 - Integración completa con **Firebase Performance**
