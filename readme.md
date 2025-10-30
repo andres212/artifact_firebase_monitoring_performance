@@ -3,8 +3,7 @@
 Aplicación desarrollada en **Kotlin**, para integrar **Firebase Performance Monitoring** para registrar trazas personalizadas y eventos de usuario.
 
 ---
-
-![Screen Dashboard](https://imgur.com/a/qDlRDXw)
+<img width="980" alt="screen-ios" src="https://i.imgur.com/MuFDfcj.png">
 
 ## Características
 
